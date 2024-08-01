@@ -3,7 +3,7 @@
   - [News](#news)
   - [PylonModeler: A hybrid-driven 3D reconstruction method for power transmission pylons from LiDAR point clouds](#PylonModeler)
   - [Notification](#notification)
-## news
+## News
 * [2024-4-16] Submit the manuscript to the journal.
 
 ## PylonModeler: A hybrid-driven 3D reconstruction method for power transmission pylons from LiDAR point clouds
