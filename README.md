@@ -1,7 +1,7 @@
 # Pylon-Modeler
 - [Pylon-Modeler](#Pylon-Modeler)
   - [News](#news)
-  - [PylonModeler: A hybrid-driven 3D reconstruction method for power transmission pylons from LiDAR point clouds](#PylonModeler: A hybrid-driven 3D reconstruction method for power transmission pylons from LiDAR point clouds)
+  - [PylonModeler: A hybrid-driven 3D reconstruction method for power transmission pylons from LiDAR point clouds](#PylonModeler)
   - [Notification](#notification)
 ## news
 * [2024-4-16] Submit the manuscript to the journal.
@@ -14,5 +14,5 @@ The key features in Pylon-Modeler are:
 > * We propose a lite and flexible Transformer network, Pylon Former, for real-time power pylon recognition and pylon head positioning from UAV-borne LiDAR data. The method achieves the accurate identification and the decomposition of the pylon for facilitating the pylon reconstruction. In addition, this approach reduces the dependence of reconstruction methods on data quality.
 > * A concise and efficient parameter optimization algorithm is specially designed to reconstruct the pylon head model. The method utilizes coherent point drift (CPD) algorithm to establish the topological relationships among pylon head structures and determine the initial value of model parameters. The method reduces the parameter search space, which improves the efficiency and stability of the parameter optimization.
 
-## notification
+## Notification
 * After the paper is accepted, we will open source the relevant code.
