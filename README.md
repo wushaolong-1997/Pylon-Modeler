@@ -1,7 +1,7 @@
 # Pylon-Modeler
 - [Pylon-Modeler](#Pylon-Modeler)
   - [News](#news)
-  - [PylonModeler: A hybrid-driven 3D reconstruction method for power transmission pylons from LiDAR point clouds)
+  - [PylonModeler: A hybrid-driven 3D reconstruction method for power transmission pylons from LiDAR point clouds](#PylonModeler: A hybrid-driven 3D reconstruction method for power transmission pylons from LiDAR point clouds)
   - [Notification](#notification)
 ## news
 * [2024-4-16] Submit the manuscript to the journal.
